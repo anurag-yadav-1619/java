@@ -68,7 +68,7 @@
 //         }
 //     }
 
-
+    
 
 // import java.util.Scanner;
 //     public  class conditions{
@@ -95,14 +95,14 @@
 //         System.out.println("enter the sellain praise");
 //         int s=sp.nextInt();
 //         if(s>c){
-//             System.out.print("profit ,and theprofit is :" +( s-c));
+//             System.out.print("profit ,and the profit is :" +( s-c));
 //         }
 //         else if (s==c) {
 //             System.out.println("no profit");
             
 //         }
 //         else{
-//             System.out.print("loss, nad the loss is "+(c-s));
+//             System.out.print("loss, and the loss is "+(c-s));
 //         }
 
 //     }
@@ -145,6 +145,32 @@
 //     }
 //  }
 
+// import java.util.Scanner;
+// public class conditions{
+//     public static void main(String[] args){
+//         Scanner sc=new Scanner(System.in);
+//          System.out.println("enter the number");
+//         int x=sc.nextInt();
+//         for(int i=x;i>=0;i--){
+//             System.out.println(i);
 
+//         }
+//     }
+// }
+
+
+
+// import java.util.Scanner;
+// public class conditions{
+//     public static void main(String[] args){
+//         Scanner sc=new Scanner(System.in);
+//          System.out.print("enter the number");
+//         int x=sc.nextInt();
+//         for(int i=0;i<=3*x-1;i+=3){
+//             System.out.println(i);
+
+//         }
+//     }
+// }
 
 
