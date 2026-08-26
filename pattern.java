@@ -91,6 +91,7 @@
 
 //         }
 //         System.out.println();
+        
 //     }
 // }
 // }
@@ -169,7 +170,12 @@
 //                 else System.out.print(" "+" ");
 //             }    
 //             System.out.println();
+//             sc.close();
 //         }}}
+
+
+
+
 
             
                  
