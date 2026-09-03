@@ -356,23 +356,23 @@
 
 
 
-public class array{
-    public static void main(String args[]){
-        int []arr={1,2,3,4,5};
-        int t=6;
-        for(int i=0;i<=4;i++){
-        if(t==arr[i]){
-                t=arr[i];
-            }
+// public class array1{
+//     public static void main(String args[]){
+//         int []arr={1,2,3,4,5};
+//         int t=6;
+//         for(int i=0;i<=4;i++){
+//         if(t==arr[i]){
+//                 t=arr[i];
+//             }
             
            
-        }
-        System.out.println(t);
+//         }
+//         System.out.println(t);
        
         
        
-    }
-}
+//     }
+// }
 
 
 
