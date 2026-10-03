@@ -30,4 +30,13 @@
 // }
 
 
+<<<<<<< HEAD
 // import  java.util.Scanner;/
+=======
+class intro{
+    public static void main(String args[]){
+        Scanner sc=new Scanner(System.in);
+        sc.close();
+    }
+}
+>>>>>>> ca5efdd6883b46cb1c5fa2906eeccb4b34d7501b
